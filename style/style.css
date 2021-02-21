@@ -17,26 +17,26 @@ body {
   width: 80%;
   height: 100vh;
   background-color: #3399cc;
-  border: 25px solid #2b81ac;
+  border: 20px solid #2b81ac;
 }
 
 h1 {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   color: whitesmoke;
-  margin: 20px 0 0 15%;
+  margin: 15px 0 0 15%;
 }
 
 ul {
   border: 3px solid white;
   font-size: 0;
-  margin: 20px 15% 0 15%;
+  margin: 40px 15% 0 15%;
   width: 70%;
   list-style: none;
 }
 li {
   width: 25%;
-  height: 150px;
+  height: 130px;
   color: white;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -57,7 +57,7 @@ li:last-child {
 }
 
 h2 {
-  padding-top: 20px;
+  padding-top: 25px;
   font-weight: 300;
 }
 
