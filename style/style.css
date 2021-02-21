@@ -24,13 +24,13 @@ h1 {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   color: whitesmoke;
-  margin: 2% 0 0 15%;
+  margin: 20px 0 0 15%;
 }
 
 ul {
   border: 3px solid white;
   font-size: 0;
-  margin: 2% 15% 0 15%;
+  margin: 20px 15% 0 15%;
   width: 70%;
   list-style: none;
 }
